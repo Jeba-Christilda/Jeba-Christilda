@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi 👋 I'm Jeba Christilda
 
-<!--
-**Jeba-Christilda/Jeba-Christilda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 AIML Student at Karunya Institute of Technology and Sciences  
+💡 Passionate about Artificial Intelligence, Data Science & Technology  
+🚀 Currently building beginner-friendly programming projects  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Skills
+
+- 💻 Programming: Python, C  
+- 🗄 Database: SQL  
+- 🌐 Web Basics: HTML, CSS  
+- 📊 Tools: MS Office  
+
+---
+
+## 📚 Currently Learning
+
+- Machine Learning fundamentals  
+- Data Analysis with Python  
+- Problem-solving & coding practice  
+
+---
+
+## 🎯 Goals
+
+- Build real-world AI/ML projects  
+- Gain internship experience  
+- Continuously improve technical skills  
+
+---
+
+⭐ Thank you for visiting my profile!
